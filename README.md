@@ -42,7 +42,7 @@ Below is a week-by-week breakdown of my focus areas, key takeaways, and the prob
 *   **Subsequence Addition (Easy Version):** Sorting the array and verifying if the current element is bounded by the running prefix sum.
 *   **Greetings:** Using a Fenwick tree or counting inversions to track intersecting paths.
 *   **Monsters Attack!:** Utilizing prefix sums to check if total monster health outpaces bullet damage across distances.
-*   **Binary Path:** Using 2D grid dynamic programming/localized traversal to construct the lexicographically smallest path.
+*   **Binary Path:**
 
 ---
 
@@ -63,8 +63,8 @@ Below is a week-by-week breakdown of my focus areas, key takeaways, and the prob
 *   **Boring Day:** A greedy sliding window approach to partition the array into valid segments.
 *   **Even-Odd Game:** Sorting the array descending and greedily picking the largest available number (or denying the opponent).
 *   **Creating the Contest:** Finding the longest contiguous subsegment that satisfies the multiplication constraint.
-*   **Two Large Bags:** Using Hash Maps/frequency arrays to greedily pair up elements.
-*   **It All Went Sideways:** Careful edge-case management and observation to find an elegant global optimum from local states.
+*   **Two Large Bags:** 
+*   **It All Went Sideways:** 
 
 ---
 
@@ -80,10 +80,10 @@ Below is a week-by-week breakdown of my focus areas, key takeaways, and the prob
 *   **Hard problem:** DP tracking string reversals and accumulating the minimum cost to maintain lexicographical order.
 *   **Journey:** Graph traversal (DFS) computing the expected value of path lengths on a tree.
 *   **Sleeping Schedule:** 2D DP checking transitions for both normal and adjusted sleep times to maximize "good" waking times.
-*   **Flood Fill:** Interval DP computing the minimum operations to make all elements in a range equal.
-*   **Buns:** A variation of the 0/1 Knapsack problem allocating dough and fillings to maximize profit.
-*   **Sasha and the Beautiful Array:** Sorting the array and taking the difference between adjacent elements.
-*   **Even Odds:** Math and modulo arithmetic to locate the number based on its parity partition.
+*   **Flood Fill:** 
+*   **Buns:** 
+*   **Sasha and the Beautiful Array:** 
+*   **Even Odds:** 
 *   **Flipping Game:** (Revisited) Reinforcing Kadane’s algorithm for maximum subarray sum.
-*   **Fence:** A sliding window algorithm to find the sequence of `k` planks with the minimum sum.
-*   **Kefa and First Steps:** A simple linear scan keeping track of the longest non-decreasing subsegment.
+*   **Fence:** 
+*   **Kefa and First Steps:** 
