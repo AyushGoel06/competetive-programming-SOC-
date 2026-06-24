@@ -8,7 +8,7 @@ Below is a week-by-week breakdown of my focus areas, key takeaways, and the prob
 ---
 
 ## Week 1: Foundations and CS101 Concepts
-**Summary:** This week served as a warm-up, focusing on core algorithmic building blocks. The approachable difficulty allowed me to prioritize coding speed, pattern recognition, and writing clean implementations without getting bogged down by complex logic. 
+**Summary:** This week served as a warm-up, focusing on core algorithmic building blocks. The questions were direct and could be solved easily for this week. This felt like an extension to cs101.
 
 **Questions Solved & Main Approaches:**
 *   **Petya and Strings:** String manipulation using case conversion and lexicographical comparison.
@@ -25,7 +25,7 @@ Below is a week-by-week breakdown of my focus areas, key takeaways, and the prob
 ---
 
 ## Week 2: Data Structures, Sorting, and Optimization
-**Summary:** A noticeable step up in complexity with 15 problems. The focus shifted toward structural efficiency to avoid Time Limit Exceeded (TLE) errors. I heavily utilized Hash Maps and Binary Search for fast lookups, leveraged prefix sums to optimize approaches, and tackled basic 2D grid traversal.
+**Summary:** A noticeable step up in complexity with 15 problems. The focus shifted toward structural efficiency to avoid Time Limit Exceeded (TLE) errors. I learnt about hashing ,maps as a data structure and i learnt the approach towards frequency arrays.
 
 **Questions Solved & Main Approaches:**
 *   **Points and Minimum Distance:** Sorting coordinates to minimize the distance between consecutive points.
@@ -47,7 +47,7 @@ Below is a week-by-week breakdown of my focus areas, key takeaways, and the prob
 ---
 
 ## Week 3: Mastering Greedy Algorithms
-**Summary:** This 15-problem set was completely centered around Greedy Algorithms. The biggest challenge wasn't necessarily coding the solutions, but proving the "greedy choice property" before implementing it. I explored greedy applications in game theory, array optimization, and constructive strings.
+**Summary:** This 15-problem set was completely centered around Greedy Algorithms. The biggest challenge wasn't necessarily coding the solutions, but proving the "greedy choice property" before implementing it. I explored greedy applications in game theory, array optimization, and constructive strings. This was the week when i had to really think hard and dry running the code before uploading. I think there was a steeper gap in week 2 and 3 which meant for us to know things beforehand.
 
 **Questions Solved & Main Approaches:**
 *   **Stone Game:** Greedy game theory where players make optimal local choices to maximize their score.
@@ -63,13 +63,13 @@ Below is a week-by-week breakdown of my focus areas, key takeaways, and the prob
 *   **Boring Day:** A greedy sliding window approach to partition the array into valid segments.
 *   **Even-Odd Game:** Sorting the array descending and greedily picking the largest available number (or denying the opponent).
 *   **Creating the Contest:** Finding the longest contiguous subsegment that satisfies the multiplication constraint.
-*   **Two Large Bags:** 
-*   **It All Went Sideways:** 
+*   **Two Large Bags:** Couldnt solve
+*   **It All Went Sideways:** Couldnt solve
 
 ---
 
 ## Week 4: Tackling Dynamic Programming
-**Summary:** The toughest week so far. I had to step away from the IDE and spend time on theory to truly internalize state definitions and transitions. Moving from 1D DP into 2D state spaces, knapsack problems, and interval-based DP required a completely new paradigm of thinking.
+**Summary:** The toughest week so far. I had to step away from the IDE and spend time on theory to truly internalize state definitions and transitions. Moving from 1D DP into 2D state spaces, knapsack problems, and interval-based DP required a completely new paradigm of thinking. This week felt really not managed properly as some ques required understanding of graph and bfs which were supposed to be completed in a later stage
 
 **Questions Solved & Main Approaches:**
 *   **k-Tree:** 1D DP utilizing state variables to track path sums and whether the required weight has been included.
@@ -77,13 +77,13 @@ Below is a week-by-week breakdown of my focus areas, key takeaways, and the prob
 *   **Boredom:** State transition DP defined by caching the maximum score up to the current index.
 *   **Basketball Exercise:** 2D DP to track the maximum height achievable while alternating between two rows.
 *   **Vacations:** 2D DP tracking multiple states (rest, gym, contest) to minimize total rest days.
-*   **Hard problem:** DP tracking string reversals and accumulating the minimum cost to maintain lexicographical order.
-*   **Journey:** Graph traversal (DFS) computing the expected value of path lengths on a tree.
+*   **Hard problem:** 
+*   **Journey:** 
 *   **Sleeping Schedule:** 2D DP checking transitions for both normal and adjusted sleep times to maximize "good" waking times.
-*   **Flood Fill:** 
+*   **Flood Fill:** Incorporated  logic od 2D DP and adjusted the array to meet with the required condition.
 *   **Buns:** 
 *   **Sasha and the Beautiful Array:** 
 *   **Even Odds:** 
-*   **Flipping Game:** (Revisited) Reinforcing Kadane’s algorithm for maximum subarray sum.
+*   **Flipping Game:** Reinforcing Kadane’s algorithm for maximum subarray sum.
 *   **Fence:** 
 *   **Kefa and First Steps:** 
